@@ -1,1 +1,39 @@
 https://chatgpt.com/share/6ae40a2f-eeec-83ee-8c8d-300f96bec902?ogimg=plain
+
+
+STATISTICS PRACTICAL
+Exp 1 : To perform Exploratory Data Analysis (EDA) using descriptive statistics, histograms, and correlation analysis to understand the dataset.
+Link : https://colab.research.google.com/drive/1Hnt1Tx7_nesMoXQJtOKWEu-6Rt6BOB7F?usp=sharing
+
+Exp 2: To perform data preprocessing using techniques for handling missing values, encoding categorical data, feature scaling, and outlier detection to prepare the dataset for machine learning analysis.
+Link : https://colab.research.google.com/drive/19kUmTiTFi1-7sz332HufKWufVnGsJELe?usp=sharing
+
+Exp 3: To demonstrate the Central Limit Theorem (CLT) using Python simulations by generating random samples from an exponential distribution and observing the sampling distribution of sample means for different sample sizes
+Link : https://colab.research.google.com/drive/12OZcoAQBb2c-wYmEAKxnhMMATcLQQ8wL?usp=sharing
+
+Exp 4: To study and implement Simple Random Sampling (SRS), Stratified Sampling, and Cluster Sampling using Python and compare the samples obtained from a given dataset.
+Link : https://colab.research.google.com/drive/1dN8flhiKnKuBIsoxe5yp5rFY-Jt_ebMx?usp=sharing
+
+Exp 5: To perform hypothesis testing using a real-world dataset by applying: Independent t-test Chi-square test One-way ANOVA and interpret the results using the p-value.
+Link : https://colab.research.google.com/drive/1iNo8IFsZq6QSDUhz7KqDiMV4ZdCFSrTk?usp=sharing
+
+Exp 6 : To implement Multiple Linear Regression and Polynomial Regression models, evaluate their performance using MAE, MSE, RMSE, R² and Adjusted R², and select the most suitable model.
+Link : https://colab.research.google.com/drive/1-AHHyNaNxRvuvxi6li5u3AaqA8Z85GGv?usp=sharing
+
+Exp 7 : To implement Regularization techniques using Ridge, Lasso and Elastic Net Regression.
+Link : https://colab.research.google.com/drive/1qXOr3o8iKGlJUVz4bDBTrsHeovxWw2c_?usp=sharing
+
+Exp 8 : To perform ROC Analysis using Naïve Bayes and KNN Algorithm.
+Link : https://colab.research.google.com/drive/1r6DzthjLZMkKDdJzjJmYEMDSvppJGURU?usp=sharing
+
+Exp 9 : To perform PCA-Based Dimensionality Reduction and Clustering Using K-Means and Hierarchical Clustering.
+Link : https://colab.research.google.com/drive/1hYIqZ-DZwEesnuBVO3LYs_000fZqQBaE?usp=sharing
+
+Exp 10 : To perform PCA-Based Dimensionality Reduction and Clustering Using K-Means and Hierarchical Clustering.
+Link : https://colab.research.google.com/drive/11o4LSdZwu8qViu4YOnvRSU9JX73stla2?usp=sharing
+
+Pub: 29 Oct 2026 15:13
+
+Views: 121
+
+new· what· how· langs· contacts· login
